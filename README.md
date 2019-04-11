@@ -13,7 +13,7 @@
 ## Learning Objectives
 *After this lesson, you will be able to:*
 
-- Describe the effect of epsilon and min_points on DBSCAN.
+- Describe the effect of `epsilon` and `min_samples` on DBSCAN.
 - Implement DBSCAN.
 - Identify advantages and disadvantages of DBSCAN.
 
@@ -29,7 +29,7 @@ I. **DBSCAN Walkthrough**
 - Walkthrough the algorithm
 
 II. **DBSCAN Codealong**
-- Tune `epsilon` and `min_points` to various datasets
+- Tune `epsilon` and `min_samples` to various datasets
 - Compare/contrast k-Means vs DBSCAN
 - Plot clusters
 
