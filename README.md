@@ -1,7 +1,42 @@
-# 8.04-dbscan
-Week 8, Lesson 4: DBSCAN and HDBSCAN
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) DBSCAN
 
-### Resources
+## Materials We Provide
+
+
+| Topic | Description | Link |
+| --- | --- | --- |
+| Lesson | Slide Deck | [Link](./dbscan.pdf)|
+| Lesson | Code along | [Link](./starter-code.ipynb)|
+
+---
+
+## Learning Objectives
+*After this lesson, you will be able to:*
+
+- Describe the effect of epsilon and min_points on DBSCAN.
+- Implement DBSCAN.
+- Identify advantages and disadvantages of DBSCAN.
+
+---
+
+## Lesson Outline
+
+> **Estimated Total Time: 90 mins**
+
+I. **DBSCAN Walkthrough**
+- Review k-Means Clustering
+- Introduce DBSCAN
+- Walkthrough the algorithm
+
+II. **DBSCAN Codealong**
+- Tune `epsilon` and `min_points` to various datasets
+- Compare/contrast k-Means vs DBSCAN
+- Plot clusters
+
+---
+
+## Additional Resources
+
 - [Comparing `k`-Means and DBSCAN - a blog post](https://www.datascience.com/blog/k-means-alternatives?utm_source=hs_email&utm_medium=email&utm_content=61156794&_hsenc=p2ANqtz-8gCQI2PQBdiQNSvuvp9P234S5yhGVxwCDBSmk3FX7Wl-F7WuRBFPWYVs3ZA-g7CcPlHHMZcH2YeHbYUfZvkmadLgyB2A&_hsmi=61156794)
 - [Brendan Bailey's Lightning Talk & Blog Post on HDBSCAN - DSI-DC-4](https://towardsdatascience.com/lightning-talk-clustering-with-hdbscan-d47b83d1b03a)
 - [Visualizing DBSCAN Clustering](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
