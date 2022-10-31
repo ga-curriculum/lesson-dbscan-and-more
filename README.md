@@ -6,7 +6,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Slide Deck | [Link](./dbscan.pdf)|
-| Lesson | Code along | [Link](./starter-code.ipynb)|
+| Lesson | Code along | [Link](./dbscan-blank.ipynb)|
 
 ---
 
